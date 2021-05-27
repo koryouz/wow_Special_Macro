@@ -101,25 +101,7 @@ loop
 		send {LControl up}{Delete}
 		sleep 500
 		
-		send {k}
-		sleep 100
-		send {o}
-		sleep 100
-		send {r}
-		sleep 100
-		send {y}
-		sleep 100
-		send {o}
-		sleep 100
-		send {u}
-		sleep 100
-		send {z}
-		sleep 100
-		send {1}
-		sleep 100
-		send {2}
-		sleep 100
-		send {3}
+		/// SEND YOUR PASSWORD HERE ///
 		sleep 1000
 		send {Enter}
 		
